@@ -1,0 +1,11 @@
+E:\загрузки\COURSEPROJ\COURSEPROJ\bin\Release\COURSEPROJ.exe.config
+E:\загрузки\COURSEPROJ\COURSEPROJ\bin\Release\COURSEPROJ.exe
+E:\загрузки\COURSEPROJ\COURSEPROJ\bin\Release\COURSEPROJ.pdb
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.csproj.AssemblyReference.cache
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.csproj.SuggestedBindingRedirects.cache
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.Form1.resources
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.Properties.Resources.resources
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.csproj.GenerateResource.cache
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.csproj.CoreCompileInputs.cache
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.exe
+E:\загрузки\COURSEPROJ\COURSEPROJ\obj\Release\COURSEPROJ.pdb
